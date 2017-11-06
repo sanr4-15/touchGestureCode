@@ -6,7 +6,7 @@
         id        = "mob.app.dev.touchgesture"
         version   = "1.0.0">
 
-    <name>touch gesture</name>
+    <name>touchgesture</name>
 
     <description>
         A sample application that counts the occurances of lifecycle events.
